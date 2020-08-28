@@ -47,7 +47,15 @@ Description of each dataset:
 
 # Modeling
 
-![](https://github.com/ttam37/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/model_results.png)
+The algorithms that were used:
+* Logistic Regression
+* Decision Trees
+* Random Forest
+* K-Nearest Neighbors
+* XGBoost
+* Gradient Boosting
+* LinearSVC
+
 ![](https://github.com/ttam37/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/ROC_curve.png)
 
 
@@ -60,6 +68,5 @@ Description of each dataset:
 ![](https://github.com/ttam37/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/LinearSVC_confusion_matrix_result.png)
 
 
-## Conclusion
 
 
