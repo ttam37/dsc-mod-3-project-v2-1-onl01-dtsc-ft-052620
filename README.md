@@ -66,6 +66,7 @@ The algorithms that were used:
 
 ![](https://github.com/ttam37/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/LinearSVC_metrics.png)
 ![](https://github.com/ttam37/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/LinearSVC_confusion_matrix_result.png)
+![](https://github.com/ttam37/dsc-mod-3-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/LinearSVC_confusion_matrix_result1.png)
 
 
 
