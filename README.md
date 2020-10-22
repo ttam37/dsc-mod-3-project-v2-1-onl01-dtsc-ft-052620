@@ -21,7 +21,7 @@ Basketball has been around for longer than a century, while NBA has been around 
 
 The dataset is scraped by Nathan Lauga and is uploaded on Kaggle. He scraped the data from the NBA stats website using the NBA API. The datasets are from 2004 to 2019 season (first 66 games of 2019 due to date scraped). 
 
-Kaggle website can be found here: https://www.kaggle.com/harlfoxem/housesalesprediction
+Kaggle website can be found here: https://www.kaggle.com/nathanlauga/nba-games
 
 Description of each dataset:
 * **games.csv** : all games from 2004 season to last update with the date, teams and some details like number of points, etc.
